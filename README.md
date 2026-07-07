@@ -99,15 +99,15 @@ npm run preview
 ## Tim
 
 Dibuat oleh Kelompok 4 IH/D/2:
-Rafa
-Nurul Aeni
-Surayuda
-Fahira
-Nizar Khairuyazid
-Maulana
-Fadhlan
-Dimas Fajru
-Shalma
+Rafa,
+Nurul Aeni,
+Surayuda,
+Fahira,
+Nizar Khairuyazid,
+Maulana,
+Fadhlan,
+Dimas Fajru,
+Shalma.
 
 ## License
 
